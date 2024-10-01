@@ -1,0 +1,34 @@
+Privacy Policy
+
+Last Updated: 01/10/2024
+
+At BBnBites, your privacy is important to us. This Privacy Policy explains how we handle your data when you use our app. Please note that BBnBites does not require user registration or login, and we do not collect or store any personal information.
+
+1. Information We Collect
+We do not collect any personal information from users. BBnBites functions purely as a recipe discovery tool and a weekly expense tracker.
+
+2. How We Use Data
+Since no personal information is collected, we do not use any user data. All features, such as browsing recipes and tracking expenses, are processed locally on your device.
+
+3. Data Storage & Security
+As we do not collect or store any data, we do not retain any information on our servers. Any data entered into the app (e.g., weekly expenses) is stored locally on your device and is not accessible to us or any third party.
+
+4. Third-Party Services
+Our app does not integrate with any third-party services that collect user data. All features are self-contained within the app.
+
+5. Cookies
+We do not use cookies or any similar tracking technologies in our app.
+
+6. User Rights
+Since we do not collect personal data, there are no rights related to access, correction, or deletion of personal data.
+
+7. Children’s Privacy
+BBnBites is suitable for users of all ages and does not collect any personal information from children or adults alike.
+
+8. Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. Any updates will be posted on this page with an updated revision date. Continued use of the app following any changes implies acceptance of the revised policy.
+
+9. Contact Us
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
+
+Email: ijahanzaibashraf@gmail.com
